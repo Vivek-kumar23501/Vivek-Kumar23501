@@ -21,4 +21,16 @@
 
 ---
 
-![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVivek‑kumar23501&label=Profile%20views&countColor=%23blue&labelColor=%23gray)
+---
+
+## 📈 Profile Reach
+
+<div align="center">
+
+  <h3>👀 Total Visitors</h3>
+
+  <img src="https://profile-counter.glitch.me/Vivek-kumar23501/count.svg" alt="Visitor Count" />
+
+</div>
+
+---
