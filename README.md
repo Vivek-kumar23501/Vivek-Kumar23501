@@ -23,14 +23,6 @@
 
 ---
 
-## 📈 Profile Reach
+### 📈 Profile Reach
 
-<div align="center">
-
-  <h3>👀 Total Visitors</h3>
-
-  <img src="https://profile-counter.glitch.me/Vivek-kumar23501/count.svg" alt="Visitor Count" />
-
-</div>
-
----
+![Visitor Count](https://profile-counter.glitch.me/Vivek-kumar23501/count.svg)
