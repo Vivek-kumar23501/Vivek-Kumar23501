@@ -23,6 +23,10 @@
 
 ---
 
-### 📈 Profile Reach
+---
 
-![Visitor Count](https://profile-counter.glitch.me/Vivek-kumar23501/count.svg)
+## 📈 Profile Reach
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Vivek-kumar23501&label=Profile%20views&color=blue&labelColor=gray&style=flat)
+
+---
