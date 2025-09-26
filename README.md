@@ -21,9 +21,6 @@
 
 ### 📈 Profile Reach
 
-> **Total Visitors to this Profile:**  
-> [![](https://visitcount.itsvg.in/api?id=Vivek-kumar23501&icon=5&color=1)](https://visitcount.itsvg.in)
-
----
+![Profile Views](https://visitcount.itsvg.in/api?id=Vivek-kumar23501&label=Profile%20views&color=blue&labelColor=gray&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
