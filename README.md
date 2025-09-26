@@ -21,8 +21,4 @@
 
 ---
 
-## 📈 Profile Reach
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Vivek-kumar23501&label=Profile%20views&color=blue&labelColor=gray&style=flat)
-
----
+![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVivek‑kumar23501&label=Profile%20views&countColor=%23blue&labelColor=%23gray)
