@@ -12,6 +12,10 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVivek‑kumar23501&label=Profile%20views&countColor=%23blue&labelColor=%23gray)
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vivek-kumar23501&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vivek-kumar23501&theme=dark&hide_border=false)<br/>
@@ -19,10 +23,6 @@
 
 ---
 
----
 
----
 
----
 
-![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVivek‑kumar23501&label=Profile%20views&countColor=%23blue&labelColor=%23gray)
