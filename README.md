@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">🚀 AIML Enthusiast | 💻 Full Stack Developer | 🧠 Deep Learning Explorer</h3>
+<h3 align="center">🚀 AIML Engineer in Progress | 💻 Full Stack Developer | 🧠 Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Explorer;Full+Stack+MERN+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Explorer;Full+Stack+MERN+Developer;Building+Real+World+Projects;Continuous+Learner" />
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-I am a passionate **Artificial Intelligence & Machine Learning learner** with strong interest in **Deep Learning and Full Stack Development**.  
-I enjoy building practical ML models and integrating them into real-world web applications.  
+Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**,  
+with hands-on experience in building ML models and integrating them into Full Stack web applications.
 
-Currently focused on:
-- 🧠 Deep Learning Architectures  
-- 🤖 Machine Learning Model Optimization  
-- 🌐 Full Stack Web Development (MERN)  
-- 📊 Data Analysis & Visualization  
+Focused on creating practical, scalable, and impactful technical solutions.
 
 ---
 
@@ -35,7 +31,7 @@ Currently focused on:
 </p>
 
 ✔ Responsive UI Design  
-✔ React Component Architecture  
+✔ Component-Based Architecture  
 ✔ Multi-Page Routing  
 
 ---
@@ -47,7 +43,7 @@ Currently focused on:
 
 ✔ REST API Development  
 ✔ Authentication Systems  
-✔ Form Handling & Data Processing  
+✔ Server-Side Logic & Data Handling  
 
 ---
 
@@ -58,7 +54,7 @@ Currently focused on:
 
 ✔ CRUD Operations  
 ✔ Schema Design  
-✔ Data Storage & Management  
+✔ Data Management  
 
 ---
 
@@ -75,7 +71,7 @@ Currently focused on:
 </p>
 
 ✔ Data Preprocessing  
-✔ Model Training & Testing  
+✔ Model Training & Evaluation  
 ✔ Hyperparameter Tuning  
 ✔ Classification & Prediction Models  
 
@@ -86,28 +82,9 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,latex" />
 </p>
 
-✔ Version Control (Git Workflow)  
-✔ API Testing (Postman)  
-✔ Research Paper Formatting (LaTeX – IEEE Format)  
-
----
-
-# 📂 Featured Projects
-
-🔹 **Breast Cancer Prediction using ML**  
-→ Built classification models using Scikit-Learn  
-→ Compared multiple ML algorithms  
-→ Achieved optimized prediction accuracy  
-
-🔹 **Hostel Mess Reduction Tracking System**  
-→ Full Stack MERN Project  
-→ Multi-role login authentication  
-→ Backend data handling & dashboard  
-
-🔹 **Student Dashboard (React Based)**  
-→ Multi-page routing  
-→ Form handling & state management  
-→ Clean UI structure  
+✔ Version Control & Collaboration  
+✔ API Testing  
+✔ Research Paper Formatting (IEEE – LaTeX)  
 
 ---
 
@@ -120,20 +97,12 @@ Currently focused on:
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Kumar23501&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🏆 Leadership & Activities
 
 - 🏅 Coordinator at **Abacus Club**  
-- 🎤 Organized coding competitions & technical events  
+- 🎤 Organized technical events & coding competitions  
 - 👨‍🏫 Conducted programming & web development sessions  
-- 📢 Managed technical announcements & student engagement  
+- 📢 Managed student technical engagement  
 
 ---
 
@@ -141,7 +110,7 @@ Currently focused on:
 
 - 📌 Master Deep Learning  
 - 📌 Contribute to Open Source  
-- 📌 Publish a Research Paper  
+- 📌 Publish Research Work  
 - 📌 Secure AIML Internship  
 
 ---
@@ -155,7 +124,7 @@ Currently focused on:
 <a href="https://linkedin.com/in/vivek-kumar" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:vivekkumarcse23501@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
