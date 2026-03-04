@@ -84,7 +84,7 @@ Focused on creating practical, scalable, and impactful technical solutions.
 
 ✔ Version Control & Collaboration  
 ✔ API Testing  
-✔ Research Paper Formatting (IEEE – LaTeX)  
+✔ Research Paper Formatting 
 
 ---
 
@@ -99,8 +99,8 @@ Focused on creating practical, scalable, and impactful technical solutions.
 
 # 🏆 Leadership & Activities
 
-- 🏅 Coordinator at **Abacus Club**  
-- 🎤 Organized technical events & coding competitions  
+- 🏅 Coordinator at **Abacus Club** & Startup Cell at Government engineering college West Champaran   
+- 🎤 Organized technical events , coding competitions  & Startup related event in Government Engineering College West Champaran
 - 👨‍🏫 Conducted programming & web development sessions  
 - 📢 Managed student technical engagement  
 
