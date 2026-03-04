@@ -1,28 +1,100 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.tiwari_official_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-a23a01300) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekkumarcse23501@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Profile Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVivek‑kumar23501&label=Profile%20views&countColor=%23blue&labelColor=%23gray)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vivek-kumar23501&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vivek-kumar23501&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-kumar23501&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Java Programmer</h3>
 
 ---
 
+## 🚀 About Me
 
+- 🎓 B.Tech Student passionate about Artificial Intelligence & Machine Learning  & Web Development  
+- 🤖 Currently learning Deep Learning & Advanced Machine Learning  
+- 💻 Building real-world projects using MERN & AIML  
+- 🏆 Coordinator at **Abacus Club** – Organizing tech events & coding competitions  
+- 📈 Goal: To become a skilled AI Engineer  
 
+---
 
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+- C  
+- C++  
+- Java  
+- JavaScript  
+- Python  
+
+---
+
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- Bootstrap  
+- React.js  
+- Reactstrap  
+- Node.js  
+- Express.js  
+- REST APIs  
+
+---
+
+### 🤖 AIML & Deep Learning
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn  
+- TensorFlow  
+- Keras  
+- Model Evaluation & Hyperparameter Tuning  
+
+---
+
+### 🗄️ Database
+- MongoDB  
+- MySQL   
+
+---
+
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Postman  
+- Canva   
+- LaTeX 
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Kumar23501&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-Kumar23501&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 Current Focus
+
+- 🔍 Machine Learning Model Optimization  
+- 🧠 Deep Learning Concepts  
+- 🌐 Full Stack Web Applications  
+- 🎯 Improving English Communication Skills  
+
+---
+
+## 📫 Connect With Me
+
+- 📷 Instagram: https://instagram.com/its.tiwari_official_  
+- 💼 LinkedIn: https://linkedin.com/in/vivek-kumar  
+- 📧 Email: vivekkumarcse23501@gmail.com  
+
+---
+
+## 💡 Quote I Believe In
+
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
+
+⭐ From [Vivek-Kumar23501](https://github.com/Vivek-Kumar23501)
