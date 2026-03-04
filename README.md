@@ -1,140 +1,96 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">🚀 AIML Engineer in Progress | 💻 Full Stack Developer | 🧠 Deep Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+Explorer;Full+Stack+MERN+Developer;Building+Real+World+Projects;Continuous+Learner" />
-</p>
-
 ---
 
 ## 🚀 Professional Summary
 
-Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**,  
-with hands-on experience in building ML models and integrating them into Full Stack web applications.
+Passionate about Artificial Intelligence, Machine Learning & Deep Learning.  
+Experienced in building ML models and integrating them with Full Stack web applications.
 
-Focused on creating practical, scalable, and impactful technical solutions.
+Focused on continuous learning and building practical real-world solutions.
 
 ---
 
 # 🛠️ Tech Stack  
 
 ## 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+## 🌐 Frontend
 
-✔ Responsive UI Design  
-✔ Component-Based Architecture  
-✔ Multi-Page Routing  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
-## 🔧 Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## 🔧 Backend
 
-✔ REST API Development  
-✔ Authentication Systems  
-✔ Server-Side Logic & Data Handling  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ---
 
 ## 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-✔ CRUD Operations  
-✔ Schema Design  
-✔ Data Management  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 🤖 AIML & Deep Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45"/>
-</p>
-
-✔ Data Preprocessing  
-✔ Model Training & Evaluation  
-✔ Hyperparameter Tuning  
-✔ Classification & Prediction Models  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,latex" />
-</p>
+## 🛠️ Tools
 
-✔ Version Control & Collaboration  
-✔ API Testing  
-✔ Research Paper Formatting 
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Kumar23501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Vivek-Kumar23501&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
-# 🏆 Leadership & Activities
+# 🏆 Leadership
 
-- 🏅 Coordinator at **Abacus Club** & Startup Cell at Government engineering college West Champaran   
-- 🎤 Organized technical events , coding competitions  & Startup related event in Government Engineering College West Champaran
-- 👨‍🏫 Conducted programming & web development sessions  
-- 📢 Managed student technical engagement  
+- 🏅 Coordinator – Abacus Club & Startup Cell at Government engineering college west champaran 
+- 🎤 Organized coding competitions & Stratup related events 
+- 👨‍🏫 Conducted technical sessions  
+- 📢 Managed student engagement  
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals 2026
 
-- 📌 Master Deep Learning  
-- 📌 Contribute to Open Source  
-- 📌 Publish Research Work  
-- 📌 Secure AIML Internship  
+- Deep Learning Mastery  
+- Publish Research Work  
+- Contribute to Open Source  
+- Secure AIML Internship  
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
-<a href="https://instagram.com/its.tiwari_official_" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
-</a>
-<a href="https://linkedin.com/in/vivek-kumar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="mailto:vivekkumarcse23501@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
-</a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/its.tiwari_official_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekkumarcse23501@gmail.com)
 
 ---
 
-# 💡 Personal Philosophy
-
-> "Consistency + Discipline + Deep Work = Success"
-
----
-
-⭐ From [Vivek-Kumar23501](https://github.com/Vivek-Kumar23501)
+⭐ From Vivek Kumar
