@@ -91,8 +91,8 @@ Focused on creating practical, scalable, and impactful technical solutions.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Kumar23501&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-Kumar23501&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Kumar23501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Vivek-Kumar23501&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
