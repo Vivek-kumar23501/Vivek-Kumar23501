@@ -52,59 +52,204 @@ A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who lov
 <div align="center">
 
 ### 🌐 Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=js" width="45" height="45"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ts" width="45" height="45"/><br/>
+<sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/><br/>
+<sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br/>
+<sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=redux" width="45" height="45"/><br/>
+<sub><b>Redux</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br/>
+<sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/><br/>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=graphql" width="45" height="45"/><br/>
+<sub><b>GraphQL</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🤖 AI / Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/><br/>
+<sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45"/><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45"/><br/>
+<sub><b>Scikit-Learn</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=opencv" width="45" height="45"/><br/>
+<sub><b>OpenCV</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=numpy" width="45" height="45"/><br/>
+<sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/><br/>
+<sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=jupyter" width="45" height="45"/><br/>
+<sub><b>Jupyter</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45" height="45"/><br/>
+<sub><b>Keras</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚔️ C++ & Data Structures & Algorithms
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/><br/>
+<sub><b>C++</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45"/><br/>
+<sub><b>LeetCode</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" height="45"/><br/>
+<sub><b>Codeforces</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" height="45"/><br/>
+<sub><b>GeeksForGeeks</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=redis" width="45" height="45"/><br/>
+<sub><b>Redis</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🚀 DevOps, Cloud & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=aws" width="45" height="45"/><br/>
+<sub><b>AWS</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/><br/>
+<sub><b>Linux</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/><br/>
+<sub><b>Figma</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="45" height="45"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
