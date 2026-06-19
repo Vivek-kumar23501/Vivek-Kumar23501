@@ -37,7 +37,7 @@ A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who lov
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="coding gif"/>
 
 </td>
 </tr>
