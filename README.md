@@ -257,28 +257,183 @@ A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who lov
 
 ---
 
-## 🧠 DSA Mastery with C++
+## 🚀 What I Specialize In
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║               ⚔️  Data Structures & Algorithms               ║
-╠══════════════════════════════════════════════════════════════╣
-║  Arrays & Strings      ████████████████████  Expert         ║
-║  Linked Lists          ████████████████████  Expert         ║
-║  Stacks & Queues       ████████████████████  Expert         ║
-║  Trees & BST           ██████████████████░░  Advanced       ║
-║  Graphs & BFS/DFS      ██████████████████░░  Advanced       ║
-║  Dynamic Programming   █████████████████░░░  Advanced       ║
-║  Greedy Algorithms     ████████████████████  Expert         ║
-║  Sorting & Searching   ████████████████████  Expert         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🌐 Full Stack — MERN Development
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Vivek--kumar23501-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Vivek-kumar23501)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Vivek--kumar23501-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vivek-kumar23501)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-Vivek--kumar23501-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vivek-kumar23501)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br/>
+<sub><b>MongoDB</b></sub><br/>
+<sub>Database</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br/>
+<sub><b>Express.js</b></sub><br/>
+<sub>Backend Framework</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>
+<sub><b>React.js</b></sub><br/>
+<sub>UI Library</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br/>
+<sub><b>Node.js</b></sub><br/>
+<sub>Runtime</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br/>
+<sub><b>Next.js</b></sub><br/>
+<sub>Full Stack Framework</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redux" width="50" height="50"/><br/>
+<sub><b>Redux</b></sub><br/>
+<sub>State Management</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br/>
+<sub><b>Tailwind CSS</b></sub><br/>
+<sub>Styling</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="50" height="50"/><br/>
+<sub><b>GraphQL</b></sub><br/>
+<sub>API Query Language</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/><br/>
+<sub><b>TensorFlow</b></sub><br/>
+<sub>Deep Learning</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br/>
+<sub><b>PyTorch</b></sub><br/>
+<sub>Neural Networks</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50"/><br/>
+<sub><b>Scikit-Learn</b></sub><br/>
+<sub>ML Algorithms</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50" height="50"/><br/>
+<sub><b>Keras</b></sub><br/>
+<sub>Model Building</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/><br/>
+<sub><b>OpenCV</b></sub><br/>
+<sub>Computer Vision</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=numpy" width="50" height="50"/><br/>
+<sub><b>NumPy</b></sub><br/>
+<sub>Numerical Computing</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br/>
+<sub><b>Pandas</b></sub><br/>
+<sub>Data Analysis</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50"/><br/>
+<sub><b>Jupyter</b></sub><br/>
+<sub>Notebooks</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚔️ Data Structures & Algorithms — C++
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>
+<sub><b>C++</b></sub><br/>
+<sub>Primary Language</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50"/><br/>
+<sub><b>LeetCode</b></sub><br/>
+<sub>Problem Solving</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="50" height="50"/><br/>
+<sub><b>Codeforces</b></sub><br/>
+<sub>Competitive Prog.</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50" height="50"/><br/>
+<sub><b>GeeksForGeeks</b></sub><br/>
+<sub>DSA Practice</sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/300+-FFA116?style=flat-square&logo=leetcode&logoColor=white" /><br/><br/>
+<sub><b>300+ Problems</b></sub><br/>
+<sub>Solved</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Cybersecurity — Fundamentals & Awareness
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br/>
+<sub><b>Linux</b></sub><br/>
+<sub>OS & Shell Scripting</sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/><br/>
+<sub><b>Bash</b></sub><br/>
+<sub>Scripting & Automation</sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/🔒-1a1a2e?style=flat-square" width="50" height="50"/><br/>
+<sub><b>Network Security</b></sub><br/>
+<sub>Protocols & Firewalls</sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/🛡️-1a1a2e?style=flat-square" width="50" height="50"/><br/>
+<sub><b>Web Security</b></sub><br/>
+<sub>OWASP Top 10</sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/🔑-1a1a2e?style=flat-square" width="50" height="50"/><br/>
+<sub><b>Cryptography</b></sub><br/>
+<sub>Encryption Basics</sub>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/🕵️-1a1a2e?style=flat-square" width="50" height="50"/><br/>
+<sub><b>Ethical Hacking</b></sub><br/>
+<sub>Basics & Tools</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br/>
+<sub><b>Docker</b></sub><br/>
+<sub>Secure Containers</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
