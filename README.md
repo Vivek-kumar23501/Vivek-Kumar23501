@@ -261,179 +261,41 @@ A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who lov
 
 <div align="center">
 
-### 🌐 Full Stack — MERN Development
+---
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br/>
-<sub><b>MongoDB</b></sub><br/>
-<sub>Database</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br/>
-<sub><b>Express.js</b></sub><br/>
-<sub>Backend Framework</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br/>
-<sub><b>React.js</b></sub><br/>
-<sub>UI Library</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br/>
-<sub><b>Node.js</b></sub><br/>
-<sub>Runtime</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/><br/>
-<sub><b>Next.js</b></sub><br/>
-<sub>Full Stack Framework</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redux" width="50" height="50"/><br/>
-<sub><b>Redux</b></sub><br/>
-<sub>State Management</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br/>
-<sub><b>Tailwind CSS</b></sub><br/>
-<sub>Styling</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=graphql" width="50" height="50"/><br/>
-<sub><b>GraphQL</b></sub><br/>
-<sub>API Query Language</sub>
-</td>
-</tr>
-</table>
+### 🌐 Full Stack Development — MERN
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind" />
+
+> Building end-to-end web applications — from responsive UIs with **React & Next.js** to powerful REST APIs with **Node.js & Express**. I craft scalable, production-ready apps with clean architecture and modern best practices.
 
 ---
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/><br/>
-<sub><b>TensorFlow</b></sub><br/>
-<sub>Deep Learning</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><br/>
-<sub><b>PyTorch</b></sub><br/>
-<sub>Neural Networks</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50"/><br/>
-<sub><b>Scikit-Learn</b></sub><br/>
-<sub>ML Algorithms</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50" height="50"/><br/>
-<sub><b>Keras</b></sub><br/>
-<sub>Model Building</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/><br/>
-<sub><b>OpenCV</b></sub><br/>
-<sub>Computer Vision</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=numpy" width="50" height="50"/><br/>
-<sub><b>NumPy</b></sub><br/>
-<sub>Numerical Computing</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br/>
-<sub><b>Pandas</b></sub><br/>
-<sub>Data Analysis</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50"/><br/>
-<sub><b>Jupyter</b></sub><br/>
-<sub>Notebooks</sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,python" />
+
+> Designing and training **ML & Deep Learning models** for real-world problems — from image classification with CNNs to NLP pipelines. Comfortable with the full ML lifecycle: data preprocessing, model training, evaluation & deployment.
 
 ---
 
 ### ⚔️ Data Structures & Algorithms — C++
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/>
-<sub><b>C++</b></sub><br/>
-<sub>Primary Language</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50"/><br/>
-<sub><b>LeetCode</b></sub><br/>
-<sub>Problem Solving</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="50" height="50"/><br/>
-<sub><b>Codeforces</b></sub><br/>
-<sub>Competitive Prog.</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50" height="50"/><br/>
-<sub><b>GeeksForGeeks</b></sub><br/>
-<sub>DSA Practice</sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/300+-FFA116?style=flat-square&logo=leetcode&logoColor=white" /><br/><br/>
-<sub><b>300+ Problems</b></sub><br/>
-<sub>Solved</sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Vivek-kumar23501)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-Active-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vivek-kumar23501)
+
+> Solid command over **Arrays, Linked Lists, Trees, Graphs, Dynamic Programming & Greedy** algorithms using C++. Regularly practice competitive programming to sharpen problem-solving speed and efficiency.
 
 ---
 
-### 🔐 Cybersecurity — Fundamentals & Awareness
+### 🔐 Cybersecurity — Fundamentals
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br/>
-<sub><b>Linux</b></sub><br/>
-<sub>OS & Shell Scripting</sub>
-</td>
-<td align="center" width="110">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/><br/>
-<sub><b>Bash</b></sub><br/>
-<sub>Scripting & Automation</sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/🔒-1a1a2e?style=flat-square" width="50" height="50"/><br/>
-<sub><b>Network Security</b></sub><br/>
-<sub>Protocols & Firewalls</sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/🛡️-1a1a2e?style=flat-square" width="50" height="50"/><br/>
-<sub><b>Web Security</b></sub><br/>
-<sub>OWASP Top 10</sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/🔑-1a1a2e?style=flat-square" width="50" height="50"/><br/>
-<sub><b>Cryptography</b></sub><br/>
-<sub>Encryption Basics</sub>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/🕵️-1a1a2e?style=flat-square" width="50" height="50"/><br/>
-<sub><b>Ethical Hacking</b></sub><br/>
-<sub>Basics & Tools</sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br/>
-<sub><b>Docker</b></sub><br/>
-<sub>Secure Containers</sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+
+> Familiar with core cybersecurity concepts — **Network Security, Web Application Security (OWASP Top 10), Cryptography basics & Ethical Hacking fundamentals**. Applying secure coding practices in every project I build.
+
+---
 
 </div>
 
