@@ -122,13 +122,14 @@ Focused on creating practical, scalable, and impactful technical solutions.
 ### 🐍 Python & Programming
 
 <p align="center">
-  <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb0f77/image.png" width="120" title="Python Essentials 1"/>
-  <img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" width="120" title="Python Essentials 2"/>
+  <img src="assets/badges/python-essentials-1.png" width="120" title="Python Essentials 1"/>
+  &nbsp;&nbsp;
+  <img src="assets/badges/python-essentials-2.png" width="120" title="Python Essentials 2"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20Essentials%201-Verified-1BA0D7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20Essentials%202-Verified-1BA0D7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Essentials%201-✔%20Verified-1BA0D7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20Essentials%202-✔%20Verified-1BA0D7?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -136,15 +137,17 @@ Focused on creating practical, scalable, and impactful technical solutions.
 ### 🤖 AI & Data Science
 
 <p align="center">
-  <img src="https://images.credly.com/images/f0d17f2e-570b-4b72-a79c-9bdf3b7a9de4/image.png" width="120" title="Introduction to Modern AI"/>
-  <img src="https://images.credly.com/images/c9b3bf0b-a4a6-4a94-b0b6-c75f3b3d4afe/image.png" width="120" title="Introduction to Data Science"/>
-  <img src="https://images.credly.com/images/7e4f89ea-2a45-4d32-869c-c2f8a65b1e8b/image.png" width="120" title="Apply AI: Analyze Customer Reviews"/>
+  <img src="assets/badges/introduction-to-modern-ai.png" width="120" title="Introduction to Modern AI"/>
+  &nbsp;&nbsp;
+  <img src="assets/badges/introduction-to-data-science.png" width="120" title="Introduction to Data Science"/>
+  &nbsp;&nbsp;
+  <img src="assets/badges/apply-ai-analyze-customer-reviews.png" width="120" title="Apply AI: Analyze Customer Reviews"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Introduction%20to%20Modern%20AI-Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Introduction%20to%20Data%20Science-Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apply%20AI%3A%20Analyze%20Customer%20Reviews-Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Introduction%20to%20Modern%20AI-✔%20Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Introduction%20to%20Data%20Science-✔%20Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apply%20AI%3A%20Analyze%20Customer%20Reviews-✔%20Verified-4CAF50?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
@@ -152,15 +155,17 @@ Focused on creating practical, scalable, and impactful technical solutions.
 ### 🌐 Networking — CCNA Track
 
 <p align="center">
-  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/image.png" width="120" title="CCNA: Introduction to Networks"/>
-  <img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df939a17/image.png" width="120" title="CCNA: Switching, Routing & Wireless Essentials"/>
-  <img src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/image.png" width="120" title="CCNA: Enterprise Networking, Security & Automation"/>
+  <img src="assets/badges/ccna-introduction-to-networks.png" width="120" title="CCNA: Introduction to Networks"/>
+  &nbsp;&nbsp;
+  <img src="assets/badges/ccna-switching-routing-and-wireless-essentials.png" width="120" title="CCNA: Switching, Routing & Wireless Essentials"/>
+  &nbsp;&nbsp;
+  <img src="assets/badges/ccna-enterprise-networking-security-and-automation.png" width="120" title="CCNA: Enterprise Networking, Security & Automation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA%3A%20Switching%2C%20Routing%20%26%20Wireless-Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA%3A%20Enterprise%20Networking%2C%20Security%20%26%20Automation-Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA%3A%20Intro%20to%20Networks-✔%20Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA%3A%20Switching%20%26%20Routing-✔%20Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA%3A%20Enterprise%20%26%20Security-✔%20Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
