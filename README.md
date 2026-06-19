@@ -16,29 +16,36 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
+## ✨ About Me
 
-```bash
-$ whoami
-> Full Stack Developer  |  AI/ML Engineer  |  Deep Learning Enthusiast  |  C++ & DSA Expert
+<br/>
 
-$ cat skills.txt
-> 🌐 Frontend    →  React, Next.js, TypeScript, Tailwind CSS, Redux
-> ⚙️  Backend     →  Node.js, Express.js, FastAPI, GraphQL, REST APIs
-> 🤖 AI / ML    →  TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, NLP, CNNs, LLMs
-> 🗄️  Database   →  MongoDB, PostgreSQL, MySQL, Redis
-> ⚔️  DSA / C++  →  Arrays, Trees, Graphs, DP, Greedy | 300+ problems solved
-> ☁️  DevOps     →  Docker, AWS, GitHub Actions, Vercel, Linux
+> 🚀 **Passionate Full Stack Developer & AI/ML Engineer** from India, dedicated to building intelligent, scalable, and impactful digital solutions.
 
-$ cat passion.txt
-> Merging AI intelligence with modern web to build the future 🌐🤖
+<br/>
 
-$ echo $FUN_FACT
-> I speak fluent Python by day & dream in C++ at night 😄
+🎯 &nbsp;I work across the **entire development spectrum** — from crafting pixel-perfect frontends with **React & Next.js** to building robust backends with **Node.js & FastAPI**.
 
-$ status
-> 🟢 Open to collaborate — let's build something amazing!
-```
+🤖 &nbsp;I have a deep passion for **Artificial Intelligence, Machine Learning & Deep Learning** — training models, building pipelines, and solving real-world problems with data.
+
+⚔️ &nbsp;I have **mastered Data Structures & Algorithms in C++** — solving complex problems across arrays, graphs, trees, dynamic programming and greedy techniques.
+
+🌱 &nbsp;I believe in **continuous learning** — currently exploring **LLMs, RAG systems, and scalable system design** to stay at the cutting edge.
+
+💡 &nbsp;My goal is to **bridge the gap between AI and the Web** — creating applications that are not just functional, but truly intelligent.
+
+<br/>
+
+<div align="center">
+
+| 🌍 Location | India 🇮🇳 |
+|:---:|:---:|
+| 💼 Role | Full Stack + AI/ML Developer |
+| 🎓 Focus | Web Development · Machine Learning · Deep Learning · DSA |
+| 🤝 Open To | Collaborations · Open Source · Freelance |
+| ⚡ Fun Fact | I solve DSA problems for fun and call it "meditation" 😄 |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
