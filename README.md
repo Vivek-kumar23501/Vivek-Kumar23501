@@ -319,7 +319,7 @@ A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who lov
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek-kumar23501&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+
 
 </div>
 
