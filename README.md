@@ -18,33 +18,26 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
-```python
-class VivekKumar:
-    def __init__(self):
-        self.name        = "Vivek Kumar"
-        self.username    = "Vivek-kumar23501"
-        self.location    = "India 🇮🇳"
-        self.roles       = [
-            "Full Stack Developer",
-            "AI / ML Engineer",
-            "Deep Learning Enthusiast",
-            "C++ & DSA Expert"
-        ]
-        self.languages   = ["JavaScript", "TypeScript", "Python", "C++"]
-        self.frontend    = ["React", "Next.js", "Tailwind CSS", "Redux"]
-        self.backend     = ["Node.js", "Express.js", "FastAPI", "REST", "GraphQL"]
-        self.ai_ml       = ["TensorFlow", "PyTorch", "Scikit-Learn", "Keras",
-                            "Pandas", "NumPy", "OpenCV", "NLP", "CNNs", "LLMs"]
-        self.database    = ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
-        self.dsa         = "Solved 300+ problems | Arrays, Trees, Graphs, DP, Greedy"
-        self.passion     = "Merging AI with the Web to build the future 🌐🤖"
-        self.fun_fact    = "I speak fluent Python by day & dream in C++ at night 😄"
+```bash
+$ whoami
+> Full Stack Developer  |  AI/ML Engineer  |  Deep Learning Enthusiast  |  C++ & DSA Expert
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+$ cat skills.txt
+> 🌐 Frontend    →  React, Next.js, TypeScript, Tailwind CSS, Redux
+> ⚙️  Backend     →  Node.js, Express.js, FastAPI, GraphQL, REST APIs
+> 🤖 AI / ML    →  TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, NLP, CNNs, LLMs
+> 🗄️  Database   →  MongoDB, PostgreSQL, MySQL, Redis
+> ⚔️  DSA / C++  →  Arrays, Trees, Graphs, DP, Greedy | 300+ problems solved
+> ☁️  DevOps     →  Docker, AWS, GitHub Actions, Vercel, Linux
 
-me = VivekKumar()
-me.say_hi()
+$ cat passion.txt
+> Merging AI intelligence with modern web to build the future 🌐🤖
+
+$ echo $FUN_FACT
+> I speak fluent Python by day & dream in C++ at night 😄
+
+$ status
+> 🟢 Open to collaborate — let's build something amazing!
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
