@@ -18,60 +18,30 @@
 
 ## ✨ About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=8b949e&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+AI%2FML+%7C+Deep+Learning+%7C+C%2B%2B+DSA" />
-
-<br/>
-
-<table border="0" align="center">
+<table border="0">
 <tr>
-<td align="center" width="50%">
+<td width="55%" valign="top">
 
-<img src="https://img.shields.io/badge/🌍%20Location-India-orange?style=flat-square&labelColor=0d1117&color=58a6ff"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/💼%20Role-Full%20Stack%20%2B%20AI%2FML%20Developer-blue?style=flat-square&labelColor=0d1117&color=58a6ff"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🎓%20Focus-Web%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20DSA-green?style=flat-square&labelColor=0d1117&color=2ea043"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🤝%20Open%20To-Collaborations%20%26%20Freelance-purple?style=flat-square&labelColor=0d1117&color=8957e5"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/⚡%20Fun%20Fact-DSA%20is%20my%20meditation%20😄-red?style=flat-square&labelColor=0d1117&color=f85149"/>
+### Hi there! 👋 I'm **Vivek Kumar**
+
+A passionate **Computer Science student** from **Bihar, India** 🇮🇳 who loves turning ideas into real-world digital products.
+
+- 🎓 &nbsp; Currently pursuing my **CS degree** while building real projects
+- 🌐 &nbsp; I build **full-stack web apps** that are fast, clean & scalable
+- 🤖 &nbsp; Deeply passionate about **AI, Machine Learning & Deep Learning**
+- ⚔️ &nbsp; Solved **300+ DSA problems** in **C++** — it's my daily workout!
+- 🚀 &nbsp; I believe in learning by **building & shipping** things that matter
+- 🤝 &nbsp; Always open to **collaborate** on exciting projects & open source
+- ⚡ &nbsp; Fun fact — **Coffee + Code + DSA = my perfect day** ☕
 
 </td>
-<td align="center" width="50%">
+<td width="45%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi&perline=4" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,mongodb,postgres,mysql,redis&perline=4" />
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,docker,aws,git,linux,vscode,figma,postman&perline=4" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-**🌐 Web** &nbsp;
-![](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Next.js-Advanced-white?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117)
-
-**🤖 AI/ML** &nbsp;
-![](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Scikit--Learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Deep%20Learning-Advanced-8957e5?style=flat-square&labelColor=0d1117)
-
-**⚔️ DSA** &nbsp;
-![](https://img.shields.io/badge/C++-Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
-![](https://img.shields.io/badge/Graphs%20%26%20Trees-Advanced-2ea043?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Dynamic%20Programming-Advanced-f85149?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/300%2B%20Problems%20Solved-🏆-gold?style=flat-square&labelColor=0d1117)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
