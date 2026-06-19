@@ -18,32 +18,13 @@
 
 ## ✨ About Me
 
-<br/>
-
-> 🚀 **Passionate Full Stack Developer & AI/ML Engineer** from India, dedicated to building intelligent, scalable, and impactful digital solutions.
-
-<br/>
-
-🎯 &nbsp;I work across the **entire development spectrum** — from crafting pixel-perfect frontends with **React & Next.js** to building robust backends with **Node.js & FastAPI**.
-
-🤖 &nbsp;I have a deep passion for **Artificial Intelligence, Machine Learning & Deep Learning** — training models, building pipelines, and solving real-world problems with data.
-
-⚔️ &nbsp;I have **mastered Data Structures & Algorithms in C++** — solving complex problems across arrays, graphs, trees, dynamic programming and greedy techniques.
-
-🌱 &nbsp;I believe in **continuous learning** — currently exploring **LLMs, RAG systems, and scalable system design** to stay at the cutting edge.
-
-💡 &nbsp;My goal is to **bridge the gap between AI and the Web** — creating applications that are not just functional, but truly intelligent.
-
-<br/>
-
 <div align="center">
 
-| 🌍 Location | India 🇮🇳 |
-|:---:|:---:|
-| 💼 Role | Full Stack + AI/ML Developer |
-| 🎓 Focus | Web Development · Machine Learning · Deep Learning · DSA |
-| 🤝 Open To | Collaborations · Open Source · Freelance |
-| ⚡ Fun Fact | I solve DSA problems for fun and call it "meditation" 😄 |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek-kumar23501&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek-kumar23501&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek-kumar23501&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek-kumar23501&theme=github_dark&utcOffset=5.5" width="32%"/>
 
 </div>
 
