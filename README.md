@@ -1,48 +1,61 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Vivek%20Kumar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vivek%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Deep%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+TypeScript+%7C+React;Node.js+%7C+REST+APIs+%7C+GraphQL;Building+scalable+web+apps+%F0%9F%8C%90;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;🤖+AI+%7C+ML+%7C+Deep+Learning+Engineer;⚡+C%2B%2B+%7C+DSA+Problem+Solver;🌐+React+%7C+Node.js+%7C+TypeScript;🧠+Building+Intelligent+Web+Apps" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile views + followers badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vivek-kumar23501&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Vivek-kumar23501?color=58a6ff&style=for-the-badge&logo=github&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Vivek-kumar23501?color=58a6ff&style=for-the-badge&logo=github&label=TOTAL+STARS)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
+![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```typescript
-const vivek = {
-  name:        "Vivek Kumar",
-  username:    "Vivek-kumar23501",
-  role:        "Full Stack Developer",
-  location:    "India 🇮🇳",
-  languages:   ["JavaScript", "TypeScript"],
-  frontend:    ["React", "Next.js", "Tailwind CSS", "Redux"],
-  backend:     ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-  database:    ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-  devOps:      ["Docker", "Git", "GitHub Actions", "Vercel", "AWS"],
-  tools:       ["VS Code", "Postman", "Figma", "Linux"],
-  passion:     "Building clean, scalable & impactful web applications",
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-};
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
+
+```python
+class VivekKumar:
+    def __init__(self):
+        self.name        = "Vivek Kumar"
+        self.username    = "Vivek-kumar23501"
+        self.location    = "India 🇮🇳"
+        self.roles       = [
+            "Full Stack Developer",
+            "AI / ML Engineer",
+            "Deep Learning Enthusiast",
+            "C++ & DSA Expert"
+        ]
+        self.languages   = ["JavaScript", "TypeScript", "Python", "C++"]
+        self.frontend    = ["React", "Next.js", "Tailwind CSS", "Redux"]
+        self.backend     = ["Node.js", "Express.js", "FastAPI", "REST", "GraphQL"]
+        self.ai_ml       = ["TensorFlow", "PyTorch", "Scikit-Learn", "Keras",
+                            "Pandas", "NumPy", "OpenCV", "NLP", "CNNs", "LLMs"]
+        self.database    = ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+        self.dsa         = "Solved 300+ problems | Arrays, Trees, Graphs, DP, Greedy"
+        self.passion     = "Merging AI with the Web to build the future 🌐🤖"
+        self.fun_fact    = "I speak fluent Python by day & dream in C++ at night 😄"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
+
+me = VivekKumar()
+me.say_hi()
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Complete Tech Arsenal
 
 <div align="center">
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,12 +65,32 @@ const vivek = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### 🤖 AI / Machine Learning / Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### ⚔️ C++ & Data Structures & Algorithms
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,7 +98,7 @@ const vivek = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps, Cloud & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,27 +112,56 @@ const vivek = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🧠 DSA Mastery with C++
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║               ⚔️  Data Structures & Algorithms               ║
+╠══════════════════════════════════════════════════════════════╣
+║  Arrays & Strings      ████████████████████  Expert         ║
+║  Linked Lists          ████████████████████  Expert         ║
+║  Stacks & Queues       ████████████████████  Expert         ║
+║  Trees & BST           ██████████████████░░  Advanced       ║
+║  Graphs & BFS/DFS      ██████████████████░░  Advanced       ║
+║  Dynamic Programming   █████████████████░░░  Advanced       ║
+║  Greedy Algorithms     ████████████████████  Expert         ║
+║  Sorting & Searching   ████████████████████  Expert         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Vivek--kumar23501-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Vivek-kumar23501)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Vivek--kumar23501-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vivek-kumar23501)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-Vivek--kumar23501-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vivek-kumar23501)
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek-kumar23501&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-kumar23501&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Vivek-kumar23501&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-kumar23501&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-kumar23501&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-kumar23501&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek-kumar23501&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek-kumar23501&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -109,43 +171,32 @@ const vivek = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-kumar23501&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-kumar23501&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1c3a5e&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🚀 Featured Projects
+## 🎯 What I'm Up To
 
 <div align="center">
 
-<a href="https://github.com/Vivek-kumar23501">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-kumar23501&repo=your-repo-1&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Vivek-kumar23501">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-kumar23501&repo=your-repo-2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
+| | |
+|:---|:---|
+| 🔭 **Building** | Full Stack AI-powered SaaS with React + Node.js + ML |
+| 🌱 **Exploring** | LLMs, RAG Systems, Transformers & System Design |
+| 🧠 **Sharpening** | Advanced DSA in C++ & Competitive Programming |
+| 👯 **Open To** | Collaborating on AI/ML & Full Stack projects |
+| 💬 **Ask Me About** | JavaScript, React, Python, ML, C++, DSA |
+| ⚡ **Fun Fact** | I solve DSA problems for fun and call it "meditation" 😄 |
 
 </div>
 
-> 💡 **Tip:** Replace `your-repo-1` and `your-repo-2` above with your actual repository names!
-
 ---
 
-## 🎯 Current Goals
-
-```
-🔭  Working on      → Full stack SaaS project with React + Node.js
-🌱  Learning        → System Design, AWS, and Microservices
-👯  Looking to      → Collaborate on open source & impactful projects
-💬  Ask me about    → JavaScript, React, Node.js, APIs
-⚡  Fun fact        → I think in components and dream in async/await
-```
-
----
-
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -154,8 +205,8 @@ const vivek = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek-kumar23501.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.kumar23501@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivek-kumar23501)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Vivek-kumar23501)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Vivek-kumar23501)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Vivek-kumar23501)
 
 </div>
 
@@ -174,14 +225,12 @@ const vivek = {
 
 <div align="center">
 
-### 💬 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-**⭐ If you like my work, consider giving my repos a star — it means a lot!**
+**✨ Thanks for visiting! Drop a ⭐ if you find my work interesting!**
 
 </div>
